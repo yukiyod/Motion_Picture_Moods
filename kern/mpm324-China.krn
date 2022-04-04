@@ -1,0 +1,106 @@
+!!!!SEGMENT: mpm324-China.krn
+!!!OTL: China
+!!!OTL2:National Hymn
+!!!ONB: National
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*clefF4	*clefG2	*
+*k[b-]	*k[b-]	*
+*F:	*F:	*
+*M2/2	*M2/2	*
+*met(c|)	*met(c|)	*
+=1	=1	=1
+!	!LO:TX:a:B:t=Maestoso	!
+2F'~ 2A	2c'~ 2f 2a 2cc	f
+2C'~ 2G	2c'~ 2e 2g 2cc	.
+=2	=2	=2
+2FF'~ 2C 2A	2c'~ 2f 2a 2cc	.
+4F	4f 4a 4cc	.
+4BB-	4f 4b- 4dd	.
+=3	=3	=3
+*^	*	*
+1FF 1F	(2D	((2d 2f 2g#X 2bn	sfz
+.	2C)	2c)) 2f 2a 2cc	.
+*v	*v	*	*
+=4	=4	=4
+4.DD 4.D	4.f^ 4.g 4.bn	.
+8CC 8C	8f 8g 8cc	.
+4BBBn 4BBn	4f 4g 4dd	.
+4CC 4C	4e 4g 4b-X 4cc	.
+=5	=5	=5
+1FF^ 1C 1F	1f^ 1a 1cc 1ff	.
+=6	=6	=6
+4BB-' 4B-	4f' 4b- 4dd	.
+4GG' 4G	4g' 4b- 4ee	.
+4AA' 4A	4e' 4a 4cc	.
+4C'	4c' 4e 4g	.
+=7	=7	=7
+2F'~	2c'~ 2f 2a	.
+2D'~	2d'~ 2f 2a	.
+=8	=8	=8
+2C'~ 2c	2e'~ 2g 2cc	.
+2AA'~ 2A	2e'~ 2a 2cc	.
+=9	=9	=9
+2GG'~ 2G	2e'~ 2b- 2cc	.
+4FF 4F	4f 4a 4cc	f
+4BBB- 4BB-	4f 4b- 4dd	.
+=10	=10	=10
+1FF 1F	2d 2f 2g#X 2bn	.
+.	2c 2f 2a 2cc	.
+=11	=11	=11
+*	*^	*
+*	*	*^	*
+2F	4.a	2c 2f	2ryy	.
+.	8cc	.	.	.
+2E 2G	4dd	2g	4d\	.
+.	4cc	.	4c\	.
+*	*v	*v	*v	*
+=12	=12	=12
+1D 1A	1f 1a 1dd 1ff	.
+=13	=13	=13
+*^	*^	*
+*	*	*	*^	*
+[1G	2GG	4gg	2g 2bn 2dd	2ryy	.
+.	.	4ff	.	.	.
+.	2GG	4ee	2b	4g\	.
+.	.	4dd	.	4f\	.
+*v	*v	*	*	*	*
+*	*v	*v	*v	*
+=14	=14	=14
+1C 1G]	1e 1g 1cc	.
+=15	=15	=15
+2BB-'~ 2B-	2d'~ 2f 2b- 2dd	ff
+2AA'~: 2D: 2A: 2c:	2d'~ 2f#X 2a 2cc 2dd	.
+=16	=16	=16
+2GG'~: 2D: 2G: 2B-:	2d'~ 2g 2b- 2dd	.
+2FF'~: 2D: 2F: 2A:	2d'~ 2f 2a 2dd	.
+=17	=17	=17
+*	*^	*
+*	*	*^	*
+2EE'~: 2C: 2E: 2G:	(4dd	(2g	4d\	.
+.	4cc)	.	4c\)	.
+4FF 4F	2c 2f 2a	2ryy	2ryy	.
+4EE 4E	.	.	.	.
+*	*v	*v	*v	*
+=18	=18	=18
+4DD 4D	4f 4a 4ff	f
+4EE 4E	4g 4cc	.
+4CC 4C	4e 4cc 4ee	.
+4DD 4D	4f 4cc	.
+=19	=19	=19
+*	*^	*
+4GGG 4GG	8b-L 8dd	2d	>
+.	8a 8cc	.	.
+4BBB- 4BB-	8g 8b-	.	.
+.	8fJ 8a	.	.
+2CC 2C	2B- 2g	(4f	.
+.	.	4e)	.
+*	*v	*v	*
+=20	=20	=20
+1FF; 1C 1F	1A; 1c 1f	]
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!ENC: Yukiko Yoden
+!!!END: 2022/04/04
